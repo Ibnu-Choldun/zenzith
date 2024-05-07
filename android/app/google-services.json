@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906824225231",
+    "firebase_url": "https://zenzith-app-50c5f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zenzith-app-50c5f",
+    "storage_bucket": "zenzith-app-50c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906824225231:android:c290b8385c08a963e9c2ba",
+        "android_client_info": {
+          "package_name": "com.example.zenzith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906824225231-kkgupqh66l17bpcatu1m61c0n52p0118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzjNP3HvGvqgCH9nkjzShkso6bI3Yrq0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906824225231-kkgupqh66l17bpcatu1m61c0n52p0118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
