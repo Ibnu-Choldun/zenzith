@@ -41,55 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBfa4Za53gciOH1Gd8hbfcZsbEv137fX-8',
-    appId: '1:906824225231:web:f4daa7883f9d8f8ce9c2ba',
-    messagingSenderId: '906824225231',
-    projectId: 'zenzith-app-50c5f',
-    authDomain: 'zenzith-app-50c5f.firebaseapp.com',
-    databaseURL: 'https://zenzith-app-50c5f-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'zenzith-app-50c5f.appspot.com',
-    measurementId: 'G-HQ50D97R2F',
+    apiKey: 'AIzaSyA-rQYxgtHRgzESaprZKCSxCnfrWCAlFfI',
+    appId: '1:626941788878:web:840806d34b2e0ab1d9869f',
+    messagingSenderId: '626941788878',
+    projectId: 'zenzith-6888a',
+    authDomain: 'zenzith-6888a.firebaseapp.com',
+    storageBucket: 'zenzith-6888a.appspot.com',
+    measurementId: 'G-FEETKB1DME',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCzjNP3HvGvqgCH9nkjzShkso6bI3Yrq0A',
-    appId: '1:906824225231:android:c290b8385c08a963e9c2ba',
-    messagingSenderId: '906824225231',
-    projectId: 'zenzith-app-50c5f',
-    databaseURL: 'https://zenzith-app-50c5f-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'zenzith-app-50c5f.appspot.com',
+    apiKey: 'AIzaSyBw5Nlh9iFQ4OM98Bl8BgcrTrBWCJxRKds',
+    appId: '1:626941788878:android:ecbb9d578aef436cd9869f',
+    messagingSenderId: '626941788878',
+    projectId: 'zenzith-6888a',
+    storageBucket: 'zenzith-6888a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDC8Tisgxo6gs1f9VDLptT-LGRboE6iRdc',
-    appId: '1:906824225231:ios:c8b9e2dc3228370be9c2ba',
-    messagingSenderId: '906824225231',
-    projectId: 'zenzith-app-50c5f',
-    databaseURL: 'https://zenzith-app-50c5f-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'zenzith-app-50c5f.appspot.com',
-    iosClientId: '906824225231-f09i01e18e30jn4bk8kb0uc3v6lt144a.apps.googleusercontent.com',
+    apiKey: 'AIzaSyC-WEtzAdk0csn7PH20jDnVpLvq2jZIyvg',
+    appId: '1:626941788878:ios:f2b8448caf5aca47d9869f',
+    messagingSenderId: '626941788878',
+    projectId: 'zenzith-6888a',
+    storageBucket: 'zenzith-6888a.appspot.com',
     iosBundleId: 'com.example.zenzith',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDC8Tisgxo6gs1f9VDLptT-LGRboE6iRdc',
-    appId: '1:906824225231:ios:c8b9e2dc3228370be9c2ba',
-    messagingSenderId: '906824225231',
-    projectId: 'zenzith-app-50c5f',
-    databaseURL: 'https://zenzith-app-50c5f-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'zenzith-app-50c5f.appspot.com',
-    iosClientId: '906824225231-f09i01e18e30jn4bk8kb0uc3v6lt144a.apps.googleusercontent.com',
+    apiKey: 'AIzaSyC-WEtzAdk0csn7PH20jDnVpLvq2jZIyvg',
+    appId: '1:626941788878:ios:f2b8448caf5aca47d9869f',
+    messagingSenderId: '626941788878',
+    projectId: 'zenzith-6888a',
+    storageBucket: 'zenzith-6888a.appspot.com',
     iosBundleId: 'com.example.zenzith',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBfa4Za53gciOH1Gd8hbfcZsbEv137fX-8',
-    appId: '1:906824225231:web:787f78ebf07ea845e9c2ba',
-    messagingSenderId: '906824225231',
-    projectId: 'zenzith-app-50c5f',
-    authDomain: 'zenzith-app-50c5f.firebaseapp.com',
-    databaseURL: 'https://zenzith-app-50c5f-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'zenzith-app-50c5f.appspot.com',
-    measurementId: 'G-PLKNR219JB',
+    apiKey: 'AIzaSyA-rQYxgtHRgzESaprZKCSxCnfrWCAlFfI',
+    appId: '1:626941788878:web:6ddcdeebf497533dd9869f',
+    messagingSenderId: '626941788878',
+    projectId: 'zenzith-6888a',
+    authDomain: 'zenzith-6888a.firebaseapp.com',
+    storageBucket: 'zenzith-6888a.appspot.com',
+    measurementId: 'G-G8B6J9M62T',
   );
 }
